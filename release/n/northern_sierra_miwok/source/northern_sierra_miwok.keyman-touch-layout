@@ -612,6 +612,7 @@
                 "text": "*Shift*",
                 "width": 110,
                 "sp": 1
+                "nextlayer": "shift"
               },
               {
                 "id": "K_LBRKT",
